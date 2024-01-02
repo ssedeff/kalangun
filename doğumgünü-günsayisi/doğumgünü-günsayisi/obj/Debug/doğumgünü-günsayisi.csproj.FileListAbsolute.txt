@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\doğumgünü-günsayisi\doğumgünü-günsayisi\bin\Debug\doğumgünü-günsayisi.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\doğumgünü-günsayisi\doğumgünü-günsayisi\bin\Debug\doğumgünü-günsayisi.exe
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\doğumgünü-günsayisi\doğumgünü-günsayisi\bin\Debug\doğumgünü-günsayisi.pdb
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\doğumgünü-günsayisi\doğumgünü-günsayisi\obj\Debug\doğumgünü-günsayisi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\doğumgünü-günsayisi\doğumgünü-günsayisi\obj\Debug\doğumgünü-günsayisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\doğumgünü-günsayisi\doğumgünü-günsayisi\obj\Debug\doğumgünü_günsayisi.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\doğumgünü-günsayisi\doğumgünü-günsayisi\obj\Debug\doğumgünü_günsayisi.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\doğumgünü-günsayisi\doğumgünü-günsayisi\obj\Debug\doğumgünü-günsayisi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\doğumgünü-günsayisi\doğumgünü-günsayisi\obj\Debug\doğumgünü-günsayisi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\doğumgünü-günsayisi\doğumgünü-günsayisi\obj\Debug\doğumgünü-günsayisi.exe
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\doğumgünü-günsayisi\doğumgünü-günsayisi\obj\Debug\doğumgünü-günsayisi.pdb
